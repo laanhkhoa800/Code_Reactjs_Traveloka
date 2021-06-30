@@ -1,0 +1,28 @@
+{
+    "PlaceDanang": [{
+            "idPlace": 1,
+            "int": 123,
+            "namePlace": "Nha Trang",
+            "imgPlace": "/img/danang.jpg",
+            "linkpage": "/danang"
+
+        },
+        {
+            "idPlace": 2,
+            "int": 192,
+            "namePlace": "Đà Nẳng",
+            "imgPlace": "/img/NhaTrang.jpg",
+            "linkpage": "/nhatrang"
+
+
+        }, {
+            "idPlace": 3,
+            "int": 192,
+            "namePlace": "Phú Quốc",
+            "imgPlace": "/img/PhuQuoc.jpg",
+            "linkpage": "/nhatrang"
+
+
+        }
+    ]
+}
