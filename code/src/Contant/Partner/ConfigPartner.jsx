@@ -1,0 +1,1 @@
+export const API_LOGINPARTNER = 'https://oka1kh.azurewebsites.net';

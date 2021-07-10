@@ -1,0 +1,47 @@
+{
+  "dataroom": [
+    {
+      "Name": "R003",
+      "Price": 7000000,
+      "Quantity": "null",
+      "Description": "Phòng có không gian rộng lớn",
+      "image": "./img/R03.jpn",
+      "ID_Hotel": "4",
+      "Bell": false,
+      "Status": true,
+      "id": 1
+    },
+    {
+      "Name": "R002",
+      "Price": "800000",
+      "Quantity": "null",
+      "Description": "Phòng có không gian rộng lớn",
+      "image": "./img/R02.jpn",
+      "ID_Hotel": "3",
+      "Bell": false,
+      "Status": true,
+      "id": 2
+    },
+    {
+      "Name": "R003",
+      "Price": "800000",
+      "Quantity": "đầy đủ tiện nghi",
+      "Description": "Phòng có không gian rộng lớn",
+      "image": "./img/R03.jpn",
+      "ID_Hotel": "1",
+      "Bell": true,
+      "id": 3
+    },
+    {
+      "Name": "R004",
+      "Price": "1200000",
+      "Quantity": "null",
+      "Description": "null",
+      "image": "./img/R05.jpn",
+      "ID_Hotel": "2",
+      "Bell": true,
+      "Status": true,
+      "id": 4
+    }
+  ]
+}

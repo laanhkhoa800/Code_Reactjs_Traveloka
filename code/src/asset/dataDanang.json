@@ -1,0 +1,107 @@
+{
+    "datadanag": [{
+            "id": 1,
+            "nameHT": "Khách Sạn Đà Nẳng Center",
+            "sao": "3",
+            "diachi": "35 Phan Chu Trinh, Hải Châu 1, Quận Hải Châu",
+            "antuong": "8.1/10 (964)",
+            "imgHT": "/img/HT_DaNang/1.jpeg",
+            "gia": 6500000
+        },
+
+        {
+            "id": 2,
+            "nameHT": "Khách sạn Le House Boutique",
+            "sao": "2",
+            "diachi": "85-87 Hà Bổng, Phước Mỹ, Sơn Trà,ĐN",
+            "antuong": "8.7/10 (1104)",
+            "imgHT": "/img/HT_DaNang/2.jpeg",
+            "gia": 8000000
+        },
+
+        {
+            "id": 3,
+            "nameHT": "Khách sạn Raon Danang Beach",
+            "sao": "3",
+            "diachi": "5-7 An Thượng 32, Mỹ An, Ngũ Hành Sơn",
+            "antuong": "8.5/10 (804)",
+            "imgHT": "/img/HT_DaNang/3.jpg",
+            "gia": 3500000
+        },
+
+        {
+            "id": 4,
+            "nameHT": "Khách sạn Thành Hoàng Châu",
+            "sao": "2",
+            "diachi": "56 Hoàng Diệu, Phước Ninh, Quận Hải Châu,ĐN",
+            "antuong": "8.2/10 (730)",
+            "imgHT": "/img/HT_DaNang/4.jpeg",
+            "gia": 4000000
+        },
+
+        {
+            "id": 5,
+            "nameHT": "Khách sạn Angel",
+            "sao": "3",
+            "diachi": "187-189 Hồ Nghinh, Phước Mỹ , Phước Mỹ, Sơn Trà",
+            "antuong": "8.6/10 (230)",
+            "imgHT": "/img/HT_DaNang/5.jpeg",
+            "gia": 7000000
+        },
+
+        {
+            "id": 6,
+            "nameHT": "The Herriott Hotel va Suite",
+            "sao": "3",
+            "diachi": "Lô 7 vs 8 Lê Văn Quý, An Hải Bắc, Sơn Trà, ĐN",
+            "antuong": "8.9/10 (110)",
+            "imgHT": "/img/HT_DaNang/6.jpeg",
+            "gia": 120000000
+        },
+
+        {
+            "id": 7,
+            "nameHT": "Brown Bean Hotel",
+            "sao": "2",
+            "diachi": "380 Đường 2 Tháng 9, Hòa Cường Bắc, Quận Hải Châu, ĐN",
+            "antuong": "8.9/10 (110)",
+            "imgHT": "/img/HT_DaNang/7.jpeg",
+            "gia": 9000000
+        },
+        {
+            "id": 8,
+            "nameHT": "Royal Charm Hotel",
+            "sao": "3",
+            "diachi": "Lô 46 Trần Bạch Đằng, Phường Mỹ An, Mỹ An, Ngũ Hành Sơn",
+            "antuong": "8.7/10 (560)",
+            "imgHT": "/img/HT_DaNang/8.jpeg"
+        },
+        {
+            "id": 9,
+            "nameHT": "Cicilia Danang Hotels vs Spa",
+            "sao": "4",
+            "diachi": "06-10 Đỗ Bá, Bãi Biển T20, Phường Mỹ An, Mỹ An, Ngũ Hành Sơn",
+            "antuong": "8.7/10 (560)",
+            "imgHT": "/img/HT_DaNang/9.jpeg",
+            "gia": 6000000
+        },
+        {
+            "id": 10,
+            "nameHT": "Khách sạn LaHotel",
+            "sao": "2",
+            "diachi": "256 Hồ Nghinh, Phường Phước Mỹ, Phước Mỹ, Sơn Trà",
+            "antuong": "8.7/10 (560)",
+            "imgHT": "/img/HT_DaNang/10.jpeg",
+            "gia": 5000000
+        },
+        {
+            "id": 11,
+            "nameHT": "Khách sạn May",
+            "sao": "2",
+            "diachi": "256 Hồ Nghinh, Phường Phước Mỹ, Phước Mỹ, Sơn Trà",
+            "antuong": "8.7/10 (560)",
+            "imgHT": "/img/HT_DaNang/11.jpeg",
+            "gia": 3000000
+        }
+    ]
+}

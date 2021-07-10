@@ -1,0 +1,1 @@
+export const API_CITY = 'https://traveloka-hotel.herokuapp.com';

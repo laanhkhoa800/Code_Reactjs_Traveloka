@@ -1,0 +1,432 @@
+.HeaderPartner {
+    margin: 0px;
+    height: 50px;
+}
+
+.MainPartner {
+    margin: 0px;
+    height: 3000px;
+    width: 100%;
+}
+
+
+/* Header partner landingv2 */
+.homedisplay{
+    width: 100%;
+    margin: 0px;
+}
+.DisplayPartner{
+    background-color: rgb(187, 187, 187);
+    width: 100%;
+    margin: 0px;
+}
+.titel h1 {
+    margin-top: 10px;
+
+}
+.titel h2 {
+    margin-top: 10px;
+}
+
+.titel h2 {
+    margin-left: 20px;
+    color: rgb(131, 131, 155);
+}
+
+.titel h1 {
+    color: rgb(16, 16, 253);
+    margin-left: 10px;
+}
+
+.dangnhap {
+    background-color: rgb(217, 227, 243);
+    color: rgb(16, 16, 253);
+    font-weight: 300;
+    margin-left: 500px;
+}
+
+.dangnhap:hover {
+    background-color: rgb(185, 214, 218);
+}
+
+.dangkychoocuaban {
+    background-color: coral;
+    color: rgb(255, 255, 255);
+    margin-top: 19px;
+    margin-left: 10px;
+}
+
+.dangkychoocuaban:hover {
+    background-color: rgb(197, 84, 9);
+    color: white;
+}
+
+.v2landingheader {
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+}
+
+
+/* Landing content */
+
+.v2content {
+    margin-left: 0px;
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    background-image: url('./amanoi.jpg');
+    background-size: 100%;
+}
+
+.topcontent {
+    color: white;
+    height: 510px;
+    margin-top: 200px;
+}
+
+.RegisterNow {
+    background-color: rgb(241, 99, 47);
+    color: rgb(255, 255, 255);
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+    z-index: 0;
+}
+
+.RegisterNow:hover {
+    background-color: rgb(172, 69, 1);
+}
+
+
+/* content img từ traveloka */
+
+.content_img1 {
+    margin-top: 0px;
+    height: 500px;
+    width: 100%;
+    background-image: url('./content_img1.PNG');
+}
+
+
+/* giao diện addhotel */
+
+
+/* .formThemHotel {
+    width: 900px;
+    height: 600px;
+}
+
+.formThemHotel form {
+    margin-left: 520px;
+    border: solid black;
+    padding: 20px 15px 15px 30px;
+}
+
+.form-group input {
+    width: 300px;
+}
+
+.addhotelSubmit {
+    background-color: rgb(0, 121, 219);
+    border-radius: 5px;
+}
+
+.addhotelSubmit:hover {
+    background-color: blue;
+} */
+
+
+/* page gmail register */
+
+.MainRegister {
+    margin: 0px;
+    background-color: rgb(56, 105, 161);
+    height: 690px;
+    width: 100%;
+}
+
+.Gmail-Form form {
+    position: absolute;
+    border: solid black;
+    width: 380px;
+    height: 650px;
+    margin-left: 600px;
+    margin-top: 16px;
+    border-radius: 7px;
+    background-color: rgb(31, 30, 30);
+}
+
+.alert-danger p {
+    height: 8px;
+    text-align: center;
+}
+
+.titelh {
+    margin-left: 90px;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.titelh h3 {
+    color: rgb(70, 67, 67);
+}
+
+.titelh h2 {
+    color: rgb(22, 43, 233);
+    margin-left: 13px;
+}
+
+.commentp {
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+
+.commentp p {
+    margin-top: 25px;
+    line-height: 4px;
+}
+
+.formgmail {
+    margin-left: 28px;
+    margin-top: 50px;
+}
+
+.formpass {
+    margin-left: 28px;
+    margin-top: 8px;
+}
+
+.nextemailR {
+    background-color: rgba(211, 32, 0, 0.932);
+    color: white;
+    width: 325px;
+    height: 41px;
+    text-align: center;
+    border-radius: 14px;
+    margin-left: 25px;
+    margin-top: 20px;
+    border: none;
+}
+
+.nextemailR:hover {
+    background-color: rgb(255, 81, 0);
+}
+
+.botlinklogin {
+    margin-left: 45px;
+    margin-top: 15px;
+}
+
+.botlinklogin p {
+    color: white;
+}
+
+
+/* page Loginpartner */
+
+.formloginpartner {
+    margin-left: 28px;
+    margin-top: 17px;
+}
+
+.botlinkregister {
+    margin-left: 28px;
+    margin-top: 5px;
+}
+
+.botlinkregister p {
+    color: white;
+}
+
+
+/*page home MainHeaderPartner */
+
+.iconbell img {
+    margin-top: 20px;
+    margin-left: 800px;
+}
+
+.nav-homePartner a:focus-visible {
+    color: rgb(173, 9, 9);
+}
+
+.nav-homePartner {
+    margin-left: 5px;
+    border-top: solid rgb(78, 76, 76);
+    border-bottom: solid rgb(66, 64, 64);
+    padding: 10px 5px 5px 5px;
+}
+
+.nav-homePartner button {
+    border: none;
+    width: auto;
+    height: 40px;
+    background-color: white;
+}
+
+.nav-homePartner button:hover {
+    color: rgb(124, 122, 122);
+}
+
+.btnAddroom {
+    color: rgb(214, 0, 0);
+    margin-left: 100px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.btneditvalue {
+    background-color: rgb(20, 158, 1);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 15px;
+}
+
+.btneditvalue:hover {
+    opacity: 0.6;
+}
+
+.btndeletevalue {
+    background-color: rgb(204, 5, 5);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 15px;
+    margin-left: 5px;
+}
+
+.btndeletevalue:hover {
+    opacity: 0.6;
+}
+.btnthanhtoan{ background-color: rgb(5, 39, 190);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 15px;
+    margin-left: 5px;}
+    .btnthanhtoan:hover {
+        opacity: 0.6;
+    }
+.label-Warning {
+    background-color: rgb(179, 108, 2);
+    font-size: 10px;
+    padding: 1px 5px;
+    color: white;
+    border-radius: 10px;
+}
+
+.label-default {
+    background-color: rgb(107, 107, 107);
+    font-size: 10px;
+    padding: 1px 5px;
+    color: white;
+    border-radius: 10px;
+}
+
+.overlowDrp {
+    overflow: hidden;
+}
+
+.trdes {
+    height: 20px;
+}
+
+.dest {
+    /* border: black solid; */
+    height: 57px;
+    width: 150px;
+    overflow: hidden;
+    /* background-color: blue; */
+}
+
+.dest td {
+    height: 57px;
+}
+
+
+/* HomePage */
+
+.ContentHomePage h2 {
+    color: rgb(255, 0, 0);
+}
+
+.Adress {
+    margin-top: 10px;
+}
+
+.valueAdress {
+    margin-left: 10px;
+}
+
+.trdest {
+    height: 20px;
+    margin-left: 10px;
+}
+
+.imageHotel {
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+}
+
+.HomePage {
+    margin: 0px;
+    width: 100%;
+    height: 900px;
+    background-color: cadetblue;
+}
+
+.leftcontent {
+    padding-left: 20px;
+}
+
+.labelvalue {
+    color: rgb(99, 99, 99);
+}
+
+.ddd {
+    margin-left: 400px;
+}
+
+.botlinklogint {
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+.botlinklogint p {
+    color: white;
+}
+.img_cntImage{
+    width: 40px;
+    height: 44px;
+    background-size: cover;
+}
+/* Page bookinghotel manager */
+.BookingRoom_Hotel{
+    margin: 0px;
+    width: 100%;
+}
+.mgbk{
+    margin-left: 10px;
+}
+.h4ds{
+    margin-top: 20px;
+    padding-left: 15px;
+}
+.hrss{
+    color: black;
+    height: 10px;
+}
+.tablebk{
+    margin-top: 10px;
+    margin-left: 40px;
+}

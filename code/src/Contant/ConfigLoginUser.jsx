@@ -1,0 +1,1 @@
+export const API_LOGINUSER = 'https://oka1kh.azurewebsites.net';
